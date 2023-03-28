@@ -20,5 +20,5 @@ We will perform two tasks for this project.
 
 
 
-![App Screenshot](https://drive.google.com/file/d/10CEF-BM3anMhRLkkPS1uSBCYPqa3qDmG/view?usp=share_link)
+![App Screenshot](https://user-images.githubusercontent.com/96725131/228323388-90b7d038-ea2c-47e0-93ee-29c88f53b295.PNG)
 
